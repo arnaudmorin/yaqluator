@@ -3,9 +3,9 @@ YAQLuator - an online YAQL evaluator
 
 A free online evaluator for YAQL - A query language for querying YAML / JSON
 
-The website is available online at [http://yaqluator.com/](http://yaqluator.com/).
+The website is available online at [http://yaqluator.ovh/](http://yaqluator.ovh/).
 
-![YAQLuator screenshot](https://github.com/ALU-CloudBand/yaqluator/blob/master/public_html/yaqluator_screenshot.jpg)
+![YAQLuator screenshot](https://github.com/arnaudmorin/yaqluator/blob/master/public_html/yaqluator_screenshot.jpg)
 
 Created by Alcatel-Lucent Cloudband during a 24 hours Hackathon session
 
@@ -14,7 +14,7 @@ To run YAQLuator locally using [Docker](https://www.docker.com/):
 1. Ensure that you have Docker **and** [Docker Compose](https://docs.docker.com/compose/) installed. Follow the standard installation instructions for your platform. The Docker configuration has been tested on Linux (Ubuntu and CentOS), Mac OS X, and Windows 10.
 2. Clone this repository to your machine.
 ```console
-$ git clone https://github.com/ALU-CloudBand/yaqluator.git
+$ git clone https://github.com/arnaudmorin/yaqluator.git
 ```
 3. Make the launch script, `docker_yaqluator.sh`, executable. On Windows, the preferred option is to use Git Bash which comes with [Git for Windows](https://gitforwindows.org/).
 ```console
