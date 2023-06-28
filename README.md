@@ -1,7 +1,9 @@
 # yaqluator
-YAQLuator - a YAQL evaluator
+YAQLuator - an online YAQL evaluator
 
-An evaluator for YAQL - A query language for querying YAML / JSON
+A free online evaluator for YAQL - A query language for querying YAML / JSON
+
+The website is available online at [http://yaqluator.com/](http://yaqluator.com/).
 
 ![YAQLuator screenshot](https://github.com/ALU-CloudBand/yaqluator/blob/master/public_html/yaqluator_screenshot.jpg)
 
